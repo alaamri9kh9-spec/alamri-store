@@ -1,0 +1,159 @@
+{
+ "settings": {
+  "name": "محمد بن سعيد العامري",
+  "tagline": "بذور ومنتجات ريفية",
+  "whatsapp": "96893669592",
+  "instagram": "",
+  "facebook": "",
+  "threads": "",
+  "tiktok": "",
+  "announcement": "🌱 اطلب بذورك الآن وأرسل طلبك مباشرة عبر الواتساب",
+  "delivery_note": "يتم الاتفاق على التوصيل وطريقة الدفع عبر الواتساب بعد إرسال الطلب.",
+  "hero_title": "بذور زراعية مختارة",
+  "hero_title2": "من أرض عُمان",
+  "hero_text": "بذور ومنتجات زراعية مختارة بعناية، مع تجربة طلب بسيطة وسريعة تناسب المزارعين ومحبي الزراعة.",
+  "about_text": "هذا الموقع يجمع المنتجات الزراعية في مكان واحد، ليسهل على المتابعين معرفة المتوفر والأسعار والتواصل للطلب دون الحاجة للبحث بين الرسائل.",
+  "followers": "31K+",
+  "currency": "ر.ع"
+ },
+ "categories": [
+  {
+   "id": "flowers",
+   "name": "بذور الزهور",
+   "sub": "تشكيلة موسمية جميلة",
+   "img": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+   "id": "vegetables",
+   "name": "بذور الخضروات",
+   "sub": "لحديقة ومزرعة منتجة",
+   "img": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+   "id": "trees",
+   "name": "الأشجار والنخيل",
+   "sub": "اختيارات للبيئة العُمانية",
+   "img": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+   "id": "herbs",
+   "name": "الأعشاب العطرية",
+   "sub": "نكهة ورائحة طبيعية",
+   "img": "https://images.unsplash.com/photo-1618375569909-3c8616cf7733?auto=format&fit=crop&w=800&q=80"
+  }
+ ],
+ "products": [
+  {
+   "id": "p1",
+   "name": "بذور النخيل",
+   "cat": "trees",
+   "price": 2.0,
+   "old_price": 0,
+   "desc": "جودة مختارة للزراعة",
+   "img": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=80",
+   "badge": "مميز",
+   "available": true,
+   "featured": true,
+   "order": 1,
+   "created": 1792859444
+  },
+  {
+   "id": "p2",
+   "name": "بذور الريحان",
+   "cat": "herbs",
+   "price": 1.0,
+   "old_price": 0,
+   "desc": "جودة مختارة للزراعة",
+   "img": "https://images.unsplash.com/photo-1618375569909-3c8616cf7733?auto=format&fit=crop&w=800&q=80",
+   "badge": "",
+   "available": true,
+   "featured": true,
+   "order": 2,
+   "created": 1792859443
+  },
+  {
+   "id": "p3",
+   "name": "بذور الخيار",
+   "cat": "vegetables",
+   "price": 0.8,
+   "old_price": 0,
+   "desc": "جودة مختارة للزراعة",
+   "img": "https://images.unsplash.com/photo-1568584711075-3d021a7c3ca3?auto=format&fit=crop&w=800&q=80",
+   "badge": "",
+   "available": true,
+   "featured": true,
+   "order": 3,
+   "created": 1792859442
+  },
+  {
+   "id": "p4",
+   "name": "بذور الطماطم",
+   "cat": "vegetables",
+   "price": 0.8,
+   "old_price": 0,
+   "desc": "جودة مختارة للزراعة",
+   "img": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=800&q=80",
+   "badge": "الأكثر طلباً",
+   "available": true,
+   "featured": true,
+   "order": 4,
+   "created": 1792859441
+  },
+  {
+   "id": "p5",
+   "name": "بذور القطيفة",
+   "cat": "flowers",
+   "price": 1.0,
+   "old_price": 0,
+   "desc": "جودة مختارة للزراعة",
+   "img": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=800&q=80",
+   "badge": "",
+   "available": true,
+   "featured": false,
+   "order": 5,
+   "created": 1792859440
+  },
+  {
+   "id": "p6",
+   "name": "بذور الأقحوان",
+   "cat": "flowers",
+   "price": 1.2,
+   "old_price": 0,
+   "desc": "جودة مختارة للزراعة",
+   "img": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=800&q=80",
+   "badge": "",
+   "available": true,
+   "featured": false,
+   "order": 6,
+   "created": 1792859439
+  },
+  {
+   "id": "p7",
+   "name": "بذور أشجار مختارة",
+   "cat": "trees",
+   "price": 1.5,
+   "old_price": 0,
+   "desc": "جودة مختارة للزراعة",
+   "img": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=800&q=80",
+   "badge": "",
+   "available": true,
+   "featured": false,
+   "order": 7,
+   "created": 1792859438
+  },
+  {
+   "id": "p8",
+   "name": "بذور الأعشاب العطرية",
+   "cat": "herbs",
+   "price": 0.9,
+   "old_price": 0,
+   "desc": "جودة مختارة للزراعة",
+   "img": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+   "badge": "",
+   "available": true,
+   "featured": false,
+   "order": 8,
+   "created": 1792859437
+  }
+ ]
+}
